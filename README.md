@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Developer From Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussaenalaa&label=Profile%20views&color=0e75b6&style=flat" alt="hussaenalaa" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f7/08/c5/f708c54c6b014940f54ba8d43f51cdfb.jpg"/>
